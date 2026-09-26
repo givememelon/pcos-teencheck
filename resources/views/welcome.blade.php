@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PCOS TeenCheck - Skrining Awal Remaja</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link class="rounded-full" rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
+    
 </head>
 <body class="bg-gradient-to-br from-pink-50 via-purple-50 to-indigo-50 min-h-screen text-slate-800">
     <div class="max-w-4xl mx-auto px-6 py-12">
