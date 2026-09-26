@@ -5,6 +5,7 @@
     <title>Dashboard Tenaga Medis - PCOS TeenCheck</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link class="rounded-full" rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-100 text-slate-800 min-h-screen">
     <nav class="bg-indigo-900 text-white px-6 py-4 flex justify-between items-center">

@@ -5,6 +5,7 @@
     <title>Dashboard Pasien - PCOS TeenCheck</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link class="rounded-full" rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen">
     <nav class="bg-white border-b px-6 py-4 flex justify-between items-center">

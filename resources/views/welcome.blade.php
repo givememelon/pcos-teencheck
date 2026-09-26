@@ -6,6 +6,7 @@
     <title>PCOS TeenCheck - Skrining Awal Remaja</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link class="rounded-full" rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
+    <script src="https://cdn.tailwindcss.com"></script>
     
 </head>
 <body class="bg-gradient-to-br from-pink-50 via-purple-50 to-indigo-50 min-h-screen text-slate-800">
